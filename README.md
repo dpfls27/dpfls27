@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=Wavingtext=Yerin)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Yerin's_GitHub)
